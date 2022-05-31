@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Lucas\Desktop\serial_communication-csharp\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
