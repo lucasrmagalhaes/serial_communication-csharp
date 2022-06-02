@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\bin\Debug\ComPort.exe.config
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\bin\Debug\ComPort.exe
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\bin\Debug\ComPort.pdb
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.Form1.resources
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.exe
+C:\Users\Lucas\Desktop\serial_communication-csharp\ComPort\obj\Debug\ComPort.pdb
